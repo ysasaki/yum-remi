@@ -1,0 +1,12 @@
+default['remi']['main']['enabled']             = 1
+default['remi']['main']['priority']            = 10
+default['remi']['php55']['enabled']            = 0
+default['remi']['php55']['priority']           = 10
+default['remi']['test']['enabled']             = 0
+default['remi']['test']['priority']            = 10
+default['remi']['debuginfo']['enabled']        = 0
+default['remi']['debuginfo']['priority']       = 10
+default['remi']['php55_debuginfo']['enabled']  = 0
+default['remi']['php55_debuginfo']['priority'] = 10
+default['remi']['test_debuginfo']['enabled']   = 0
+default['remi']['test_debuginfo']['priority']  = 10
